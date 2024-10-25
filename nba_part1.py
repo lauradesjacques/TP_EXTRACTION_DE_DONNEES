@@ -30,6 +30,5 @@ for row in table.find_all('tr')[1:]: # Ignorer la première ligne (en-tête)
 df = pd.DataFrame(data=data, columns=headers)
 
 # Exporter le DataFrame en CSV
-df.to_csv('./scraped_files/NBA_player_stats_2022.csv', index=False)
+df.to_csv('./scraped_files/csv/NBA_player_stats_2022.csv', index=False)
 
-print("Données extraites et enregistrées dans le dossier scraped_files.")
