@@ -42,7 +42,10 @@ Pour chacun de ces cas, vous devez rechercher l'organisation **HTML** du site, e
 ​
 Allé plus loin en explorant des sites plus complexes...
 
-Remarque : Vous pouvez scrapper "n'importe" quel site Internet que vous pouvez consulter, mais la difficulté de cette opération dépend du site. D'autres exemples de sites : http://books.toscrape.com/ ; https://realpython.github.io/fake-jobs/ ; https://www.gov.uk
+Remarque : Vous pouvez scrapper "n'importe" quel site Internet que vous pouvez consulter, mais la difficulté de cette opération dépend du site. D'autres exemples de sites :
+- http://books.toscrape.com/
+- https://realpython.github.io/fake-jobs/
+- https://www.gov.uk
 
 
 ---
